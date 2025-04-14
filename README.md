@@ -32,10 +32,10 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
 
 ## ✨ Features
 
-✅ **Unlimited Messaging** – Send as many messages as you want to unlimited contacts.
-⚙️ **Easy Setup** – Relatively simple setup process.
-🌍 **Multi-Country Support** – Works globally, just ensure your contact numbers are formatted correctly.
-📈 **Business Automation** – Automate engagement, campaigns, and more.
+✅ **Unlimited Messaging** – Send as many messages as you want to unlimited contacts.  
+⚙️ **Easy Setup** – Relatively simple setup process.  
+🌍 **Multi-Country Support** – Works globally, just ensure your contact numbers are formatted correctly.  
+📈 **Business Automation** – Automate engagement, campaigns, and more.  
 🔒 **Free & Secure** – 100% free. No API key. No subscription. (Remember to use responsibly to avoid WhatsApp restrictions).
 
 ---
@@ -68,7 +68,7 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
     - Navigate to the directory where you want to save the project (e.g., `cd Desktop`).
     - Clone the repository:
       ```bash
-      git clone [https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git](https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git)
+      git clone https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git
       ```
 
 3.  **Navigate to the Project Folder:**
@@ -112,7 +112,7 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
     - Navigate to the directory where you want to save the project (e.g., `cd Desktop`).
     - Clone the repository:
       ```bash
-      git clone [https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git](https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git)
+      git clone https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git
       ```
 
 4.  **Navigate to the Project Folder:**
@@ -138,7 +138,7 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
 
     - It's recommended to use a Node Version Manager (NVM) to install Node.js. This helps manage different Node.js versions.
       ```bash
-      curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh) | bash
+      curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
       ```
       (You might need to restart your terminal or source your `.bashrc` or `.zshrc` file: `source ~/.bashrc` or `source ~/.zshrc`)
       ```bash
@@ -154,7 +154,7 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
 2.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git](https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git)
+    git clone https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git
     ```
 
 3.  **Navigate to the Project Folder:**
@@ -180,7 +180,7 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
 
     - Homebrew is a package manager for macOS.
       ```bash
-      /bin/bash -c "$(curl -fsSL [https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh](https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh))"
+      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
       ```
 
 2.  **Install Node.js and npm:**
@@ -192,7 +192,7 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
         ```
       - **Using NVM (Recommended):**
         ```bash
-        curl -o- [https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh](https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh) | bash
+        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
         source ~/.nvm/nvm.sh
         nvm install --lts
         nvm use --lts
@@ -206,7 +206,7 @@ Perfect for 🔥 startups, growing businesses, and marketers who want power and 
 3.  **Clone the Repository:**
 
     ```bash
-    git clone [https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git](https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git)
+    git clone https://github.com/kunaldevelopers/WhatsApp-Bulk-Sender-Bot-Business-Automation.git
     ```
 
 4.  **Navigate to the Project Folder:**
